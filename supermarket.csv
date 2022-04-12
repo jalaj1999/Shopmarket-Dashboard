@@ -1,0 +1,34 @@
+Row Labels,Sum of Tax 5%,,,,,,
+Mandalay,5057.032,,,,,,
+Cash,1682.8315,,,,,,
+Credit card,1778.3265,,,,,,
+Ewallet,1595.874,,,,,,
+Naypyitaw,5265.1765,,,,,,
+Cash,2051.7075,,,,,,
+Credit card,1444.165,,,,,,
+Ewallet,1769.304,,,,,,
+Yangon,5057.1605,,,,,,
+Cash,1608.631,,,,,,
+Credit card,1575.9405,,,,,,
+Ewallet,1872.589,,,,,,
+Grand Total,15379.369,,,,,,
+,,,,,,,
+,,,,,,,
+Row Labels,Sum of Unit price,,,,,,
+Female,27687.24,,,,,,
+Member,14558.14,,,,,,
+Normal,13129.1,,,,,,
+Male,27984.89,,,,,,
+Member,13601.56,,,,,,
+Normal,14383.33,,,,,,
+Grand Total,55672.13,,,,,,
+,,,,,,,
+,,,,,,,
+Row Labels,Count of Unit price,Sum of Quantity,,Row Labels,Count of Unit price,Count of Quantity,Sum of Tax 5%
+Member,501,2785,,Electronic accessories,170,170,2587.5015
+Normal,499,2725,,Fashion accessories,178,178,2585.995
+Grand Total,1000,5510,,Food and beverages,174,174,2673.564
+,,,,Health and beauty,152,152,2342.559
+,,,,Home and lifestyle,160,160,2564.853
+,,,,Sports and travel,166,166,2624.8965
+,,,,Grand Total,1000,1000,15379.369
